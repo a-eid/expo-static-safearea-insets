@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modulesClassNames": ["ExpoStaticSafeareaInsetsModule"]
+  },
+  "android": {
+    "modulesClassNames": ["expo.modules.expostaticsafeareainsets.ExpoStaticSafeareaInsetsModule"]
+  }
+}

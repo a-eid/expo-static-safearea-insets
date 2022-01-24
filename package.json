@@ -1,0 +1,32 @@
+{
+  "name": "expo-static-safearea-insets",
+  "version": "0.1.0",
+  "description": "get safearea insets statically.",
+  "main": "build/ExpoStaticSafeareaInsets.js",
+  "types": "build/ExpoStaticSafeareaInsets.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "safearea",
+    "expo-static-safearea-insets"
+  ],
+  "repository": "https://github.com/a-eid/ExpoStaticSafeareaInsets",
+  "bugs": {
+    "url": "https://github.com/a-eid/ExpoStaticSafeareaInsets/issues"
+  },
+  "author": "aeid",
+  "license": "MIT",
+  "homepage": "https://github.com/a-eid/ExpoStaticSafeareaInsets#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "expo-module-scripts": "^2.0.0"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react-native": "*"
+  }
+}
