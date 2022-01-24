@@ -11,16 +11,17 @@
   "keywords": [
     "react-native",
     "expo",
-    "safearea",
+    "safeArea",
+    "insets",
     "expo-static-safearea-insets"
   ],
-  "repository": "https://github.com/a-eid/ExpoStaticSafeareaInsets",
+  "repository": "https://github.com/a-eid/expo-static-safearea-insets",
   "bugs": {
-    "url": "https://github.com/a-eid/ExpoStaticSafeareaInsets/issues"
+    "url": "https://github.com/a-eid/expo-static-safearea-insets/issues"
   },
   "author": "aeid",
   "license": "MIT",
-  "homepage": "https://github.com/a-eid/ExpoStaticSafeareaInsets#readme",
+  "homepage": "https://github.com/a-eid/expo-static-safearea-insets#readme",
   "dependencies": {},
   "devDependencies": {
     "expo-module-scripts": "^2.0.0"
