@@ -4,6 +4,7 @@
   "description": "get safearea insets statically.",
   "main": "build/ExpoStaticSafeareaInsets.js",
   "types": "build/ExpoStaticSafeareaInsets.d.ts",
+  "soruce": "src/ExpoStaticSafeareaInsets",
   "scripts": {
     "build": "tsc",
     "lint": "eslint ."
