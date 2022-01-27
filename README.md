@@ -29,6 +29,10 @@ const styles = StyleSheet.create({
     paddingBottom: insets.bottom,
     paddingLeft: insets.left,
     paddingRight: insets.right,
+
+    //  you are also able to get the statusbarHeight & navgiationBarHeight ( 0.2.0 )
+    marginTop: insets.statusBarHeight,
+    marginBottom: navigationBarHeight,
   },
 })
 ```
@@ -50,4 +54,3 @@ you only are able to install this package if you are using expo modules
 you can use it with expo bare workflow
 
 soon it will be available in managed workflows as well.
-
