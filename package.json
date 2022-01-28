@@ -25,7 +25,10 @@
   "homepage": "https://github.com/a-eid/expo-static-safearea-insets#readme",
   "dependencies": {},
   "devDependencies": {
-    "expo-module-scripts": "^2.0.0"
+    "expo-module-scripts": "^2.0.0",
+    "expo": "*",
+    "react-native": "*",
+    "@types/react-native": "*"
   },
   "peerDependencies": {
     "expo": "*",
