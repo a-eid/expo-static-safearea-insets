@@ -1,6 +1,6 @@
 {
   "name": "expo-static-safearea-insets",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "get safearea insets statically.",
   "main": "build/ExpoStaticSafeareaInsets.js",
   "types": "build/ExpoStaticSafeareaInsets.d.ts",
